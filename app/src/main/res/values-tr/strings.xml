@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feraiz Hesaplama</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_send">Gönder</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="menu_tools">Araçlar</string>
+    <string name="nav_header_title">Feraiz Hesaplama</string>
+</resources>
